@@ -1,0 +1,14 @@
+{
+  "name": "pj.com.br",
+  "version": "1.0.0",
+  "description": "Um teste para algo maior",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    gi
+  }
+}
