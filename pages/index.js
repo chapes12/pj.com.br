@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Apenas um teste maior kk</h1>
+    return <h1>O ultimo texto estava mt feio</h1>
 }
 
 export default Home;
